@@ -1,9 +1,16 @@
-# Munich-Airbnb
+# Project #1 Udacity Data Scientist Nanodegree
 
-Udacity's Write Blog Post Project
+## Munich Airbnb Data Analysis
 
-Test file
+#Project Motivation
+The main purpose of this project is to practice analysing data using the CRISP-DM methodology.
+The dataset in this case is Airbnb data from Munich.
+The goal is to pick three relevant questions and find the answers through analysis of the data.
 
-Learning how to use github
+# Data
+listings.csv - contains information of listings in munich
+calendar.csv - contains daily booking information of listings 
+reviews.csv - contains reviews of listings
+
 
 
